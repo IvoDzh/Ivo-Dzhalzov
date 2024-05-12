@@ -46,8 +46,7 @@
 
 ### Resources:
 
--   W3Schools - [HTML](https://www.w3schools.com/html/default.asp)
--   [CSS](https://www.w3schools.com/css/default.asp)
+-   [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp) (W3Schools)
 -   [MDN Web Docs](https://developer.mozilla.org/en-US/)
 -   [React](https://react.dev/reference/react)
 
